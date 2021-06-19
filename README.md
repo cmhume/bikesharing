@@ -6,7 +6,7 @@
 
 In this analysis, citibike user data from New York City was used to create visualizations in Tableau.  First, the original csv file was updated using pandas in Jupyter Notebook to change the Trip Duration column to a Datetime Format that could be used in the analysis.  Then worksheets were made in Tableau, displaying bike checkout times for users, checkout times by gender, trips by weekday per hour, trips by weekday per hour by gender,  trips by weekday per gender, August peak hours, and gender breakdown of all users.  After the worksheets were completed, they were compiled in a Tableau story.
 
-[link to dashboard](https://public.tableau.com/app/profile/corinne.hume/viz/NYCCitibikeAnalysisStory_16236060852970/Story1)
+[link to NYC Citibike Analysis](https://public.tableau.com/app/profile/corinne.hume/viz/NYCCitibikeAnalysis_16240607751250/NYCCitibikeAnalysis)
 ## Results:
 
 
@@ -51,13 +51,17 @@ In August, the most bikecheckouts occur at 5pm, followed by 6pm and 7am.
 ![august_peak_hours](https://user-images.githubusercontent.com/78699521/121813034-2fa00200-cc1f-11eb-8c22-4f7ebb20bed7.png)
 
 
-### Gender Breakdown:
+### User Types:
 
 
-![gender_breakdown](https://user-images.githubusercontent.com/78699521/121813043-375fa680-cc1f-11eb-9bb6-6e89dd2fa9dd.png)
+![user_breakdown](https://user-images.githubusercontent.com/78699521/122624854-ff10fb80-d056-11eb-88e9-de4d60cdb86f.png)
+
 
 
 
 
 Summary:
+
+
+
 
