@@ -4,7 +4,7 @@
 ## Overview:
 
 
-In this analysis, citibike user data from New York City was used to create visualizations in Tableau.  The user data was recorded in August, a pupular bike renting month.  First, the original data file was updated using pandas in Jupyter Notebook to change the Trip Duration column to a Datetime Format that could be used in the analysis.  Then worksheets were made in Tableau, displaying bike checkout times for users, checkout times by gender, trips by weekday per hour, trips by weekday per hour by gender,  trips by weekday per gender, August peak hours, and gender breakdown of all users.  After the worksheets were completed, they were compiled in a Tableau story, available from the link below.
+In this analysis, citibike user data from New York City was used to create visualizations in Tableau.  The user data was recorded in August, a popular bike renting month.  First, the original data file was updated using pandas in Jupyter Notebook to change the Trip Duration column to a Datetime Format that could be used in the analysis.  Then worksheets were made in Tableau, displaying bike checkout times for users, checkout times by gender, trips by weekday per hour, trips by weekday per hour by gender,  trips by weekday per gender, August peak hours, and gender breakdown of all users.  After the worksheets were completed, they were compiled in a Tableau story, available from the link below.
 
 [link to NYC Citibike Analysis](https://public.tableau.com/app/profile/corinne.hume/viz/NYCCitibikeAnalysis_16240607751250/NYCCitibikeAnalysis)
 
